@@ -2,7 +2,7 @@
 
 ### 💻 Estudiante Full Stack Java en Generation  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mkjota&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
@@ -60,3 +60,7 @@ No busco hacerlo perfecto, busco mejorar todos los días.
 
 ## ✨ Frase  
 **“El progreso se construye todos los días, incluso cuando cuesta.”**
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mkjota&theme=dark)](https://git.io/streak-stats)
